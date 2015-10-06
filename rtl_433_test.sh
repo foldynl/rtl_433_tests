@@ -1,13 +1,14 @@
 #!/bin/bash
-
-## Your git project directory
-PRJDIR=~/Projects
-
+if [ "$#" -ne 1 ]; then
+   echo "Illegal number of parameters"
+   echo "Usage: $0 <path_to_rtl_433>"
+   exit
+fi
 ## Test command
-CMD="$PRJDIR/rtl_433/build/src/rtl_433 -r"
+CMD="$1/rtl_433 -r"
 
 ## Find all data files (sort for consistency between runs)
-DATAFILES=$(find $PRJDIR/rtl_433_tests -iname "*.data" | sort)
+DATAFILES=$(find . -iname "*.data" | sort)
 
 ## Run though all test data
 for FILE in $DATAFILES
