@@ -1,0 +1,30 @@
+gfile001.data
+2015-10-06 15:48:40 WT450 sensor: House Code 1, Channel 2, Battery OK, Temperature 21.16 C, Humidity 0 %
+2015-10-06 15:48:40 WT450 sensor: House Code 1, Channel 2, Battery OK, Temperature 21.18 C, Humidity 0 %
+2015-10-06 15:48:40 WT450 sensor: House Code 1, Channel 2, Battery OK, Temperature 21.21 C, Humidity 0 %
+
+gfile002.data
+2015-10-06 15:49:29 WT450 sensor: House Code 1, Channel 2, Battery OK, Temperature 21.16 C, Humidity 0 %
+2015-10-06 15:49:29 WT450 sensor: House Code 1, Channel 2, Battery OK, Temperature 21.18 C, Humidity 0 %
+2015-10-06 15:49:29 WT450 sensor: House Code 1, Channel 2, Battery OK, Temperature 21.21 C, Humidity 0 %
+
+gfile003.data
+2015-10-06 15:49:58 WT450 sensor: House Code 1, Channel 3, Battery LOW, Temperature 21.21 C, Humidity 57 %
+2015-10-06 15:49:58 WT450 sensor: House Code 1, Channel 3, Battery LOW, Temperature 21.23 C, Humidity 57 %
+2015-10-06 15:49:58 WT450 sensor: House Code 1, Channel 3, Battery LOW, Temperature 21.24 C, Humidity 57 %
+
+gfile004.data
+2015-10-06 15:50:12 WT450 sensor: House Code 1, Channel 2, Battery OK, Temperature 21.16 C, Humidity 0 %
+2015-10-06 15:50:12 WT450 sensor: House Code 1, Channel 2, Battery OK, Temperature 21.18 C, Humidity 0 %
+2015-10-06 15:50:12 WT450 sensor: House Code 1, Channel 2, Battery OK, Temperature 21.21 C, Humidity 0 %
+
+gfile005.data
+2015-10-06 15:50:34 WT450 sensor: House Code 1, Channel 1, Battery OK, Temperature 21.01 C, Humidity 30 %
+2015-10-06 15:50:34 WT450 sensor: House Code 1, Channel 1, Battery OK, Temperature 21.03 C, Humidity 30 %
+2015-10-06 15:50:34 WT450 sensor: House Code 1, Channel 1, Battery OK, Temperature 21.04 C, Humidity 30 %
+
+gfile006.data
+2015-10-06 15:50:58 WT450 sensor: House Code 1, Channel 3, Battery LOW, Temperature 21.21 C, Humidity 57 %
+2015-10-06 15:50:58 WT450 sensor: House Code 1, Channel 3, Battery LOW, Temperature 21.23 C, Humidity 57 %
+2015-10-06 15:50:58 WT450 sensor: House Code 1, Channel 3, Battery LOW, Temperature 21.24 C, Humidity 57 %
+
